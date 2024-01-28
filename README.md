@@ -1,5 +1,5 @@
 # odin-recipes
-Recipes Project from The Odin Project
+Recipes Project from The Odin Project - Implementing the previous lessons on HTML Basics into a Project
 Skills to be Demonstrated:
 - Structuring the Recipes Page & Repository
 - Using HTML Basics to Create a Website, with various pages of my favourite dishes and their recipes
